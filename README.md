@@ -2,7 +2,8 @@
 <h3 align="center">I'm an experienced Full Stack Developer with a strong focus on Laravel, having spent over two years working on various projects, especially in building e-commerce platforms. I've got solid skills in managing projects on cPanel hosting environments, which I've sharpened during my time in the industry.
 
 </h3>
-
+ <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
+"/>
 # 💫 About Me:
 I'm Currently working as a Laravel Developer in MarginTop Solution.<br>
 
