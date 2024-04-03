@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saugat Pandey. A Laravel Vue Developer</h1>
-<h3 align="center">A passionate Full Stack Developer, Who has detailed Knowledge of Laravel and connecting Apis.</h3>
+<h3 align="center">I'm an experienced Full Stack Developer with a strong focus on Laravel, having spent over two years working on various projects, especially in building e-commerce platforms. I've got solid skills in managing projects on cPanel hosting environments, which I've sharpened during my time in the industry.
+
+I'm also well-versed in using Scrum methodologies to ensure smooth project management and minimize risks. One of my proudest achievements was successfully integrating PayPal into a project, overcoming complex coding challenges and ensuring its security through rigorous testing.
+
+Currently, I'm excitedly working on a new web application using Vue JS and Laravel. This app aims to showcase detailed company information and will feature cutting-edge text recognition technology to simplify the process for individuals seeking job opportunities abroad. My goal is to make the application process smoother by automating document generation, making it easier for people looking to work overseas. In simpler terms, I'm a Laravel and Vue developer focused on creating innovative web apps that make life easier for users.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugat77&label=Profile%20views&color=0e75b6&style=flat" alt="saugat77" /> </p>
 
